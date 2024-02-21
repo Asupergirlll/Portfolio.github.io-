@@ -7,11 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <!-- # Portfolio de Projets
-
-Bienvenue sur mon portfolio GitHub ! Cette page regroupe quelques-uns de mes projets en data science et en analyse de données.
-
-## Projets
+    <!-- ## Projets
 
 ### Analyse de Plateforme de Réseau de Rencontre (Projet Tinder)
 
@@ -35,8 +31,6 @@ Bienvenue sur mon portfolio GitHub ! Cette page regroupe quelques-uns de mes pro
 
 - **Description :** Prédiction du risque de burnout dans une entreprise à travers différents facteurs, avec une focalisation sur la période de la Covid et post-Covid.
 - **Outils utilisés :** Python (Pandas, NumPy, Scikit-learn)
-- [Voir le projet](https://drive.google.com/drive/folders/1hMmxilVujOnn0RgUMztt2b55y-krBGet?usp=share_link)
--->
+- [Voir le projet](https://drive.google.com/drive/folders/1hMmxilVujOnn0RgUMztt2b55y-krBGet?usp=share_link)-->
 </body>
-</html>
 
