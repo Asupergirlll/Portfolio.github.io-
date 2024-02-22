@@ -1,6 +1,6 @@
 # Portfolio de Projets 🚀
 
-Bienvenue sur mon portfolio GitHub ! Cette page regroupe quelques-uns de mes projets en data science et en analyse de données.
+Bienvenue sur mon portfolio  ! Cette page regroupe quelques-uns de mes projets de Data Analyse.
 
 ---
 
